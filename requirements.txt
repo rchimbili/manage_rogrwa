@@ -1,2 +1,3 @@
 pandas
 ipywidgets
+xlrd >= 1.0.0
